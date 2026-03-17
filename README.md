@@ -41,7 +41,7 @@ const ehsan: Developer = {
     "DevOps (a.k.a. making it someone else's problem, beautifully)",
   ],
 
-  funFact: "It works on my machine — so I Dockerize it & make it everyone's problem. 🐳",
+  funFact: "It works on my machine so I Dockerize it & make it everyone's problem. 🐳",
 };
 ```
 
@@ -229,7 +229,7 @@ Strapi CMS backed by PostgreSQL, Dockerized with Nginx, rate-limited, abuse-prot
 
 <div align="center">
 
-*"It works on my machine — so I Dockerize it & make it everyone's problem."* 🐳
+*"It works on my machine so I Dockerize it & make it everyone's problem."* 🐳
 
 <br/>
 
